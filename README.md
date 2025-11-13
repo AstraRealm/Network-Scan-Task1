@@ -6,7 +6,7 @@
 🔒 Focused on understanding how attackers discover vulnerabilities — and how defenders secure them!
 📂 Includes:
 • 📄 scan_results.txt — full Nmap output
-• 🖼️ screenshots of terminal & Wireshark captures
+• 🖼️ screenshots of terminal
 • 🧾 README.md — steps, observations & security notes
 
 🧠 Key Skills: Network Reconnaissance · Port Scanning · Cybersecurity Basics · Wireshark Analysis
